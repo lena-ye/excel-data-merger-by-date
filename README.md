@@ -1,6 +1,6 @@
 Hi there, welcome to the Excel Data Merger project. 
 
-When I was doing a final assignment for my high school Stats course, I needed every day's step count for at least 365 days.
+When I was doing a final assignment for my high school's AP Stats course, I needed every day's step count for at least 365 days.
 I found an app to enter a year's data into an Excel file for me. However, there was a huge problem. 
 Each day's step count was a distribution of steps across several time intervals, so the entire sheet consisted of
 tens of thousands of rows. 
