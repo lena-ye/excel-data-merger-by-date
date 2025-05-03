@@ -13,4 +13,4 @@ I encountered way more errors here than I did in a full year of comp sci class i
 At one point I was so lost, I was just gazing at the console and expressing my love for the colorful display.
 
 I went to the Internet for education and help with the code. I worked through bug fixes and learned how to answer to my own questions, one by one.
-After some intense headaches, I finally crafted a program that solved the problem. I hope it can be of a little use to you.
+After some intense headaches, I finally crafted a program that solved the problem. I hope it can be of help to you.
